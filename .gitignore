@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+__pycache__
+*.pyc
+
+# Оригиналы — локально у разработчика. В репо только сжатые webp.
+wallpapers-src/

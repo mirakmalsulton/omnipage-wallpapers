@@ -1,6 +1,49 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T17:00:33Z",
+  "generatedAt": "2026-10-16T17:11:58Z",
   "baseUrl": "https://cdn.jsdelivr.net/gh/mirakmalsulton/omnipage-wallpapers@main/",
-  "categories": []
+  "categories": [
+    {
+      "id": "sdasda",
+      "name": "Sdasda",
+      "items": [
+        {
+          "id": "wallhaven-493zvx_1920x1080",
+          "name": "Wallhaven 493Zvx 1920X1080",
+          "thumb": "sdasda/wallhaven-493zvx_1920x1080_t.webp",
+          "full": "sdasda/wallhaven-493zvx_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-8g8111_1920x1080",
+          "name": "Wallhaven 8G8111 1920X1080",
+          "thumb": "sdasda/wallhaven-8g8111_1920x1080_t.webp",
+          "full": "sdasda/wallhaven-8g8111_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-e8vvx8_1920x1080",
+          "name": "Wallhaven E8Vvx8 1920X1080",
+          "thumb": "sdasda/wallhaven-e8vvx8_1920x1080_t.webp",
+          "full": "sdasda/wallhaven-e8vvx8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-k72wqd_1920x1080",
+          "name": "Wallhaven K72Wqd 1920X1080",
+          "thumb": "sdasda/wallhaven-k72wqd_1920x1080_t.webp",
+          "full": "sdasda/wallhaven-k72wqd_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-k8jlq7_1920x1080",
+          "name": "Wallhaven K8Jlq7 1920X1080",
+          "thumb": "sdasda/wallhaven-k8jlq7_1920x1080_t.webp",
+          "full": "sdasda/wallhaven-k8jlq7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-qrp57d_1920x1080",
+          "name": "Wallhaven Qrp57D 1920X1080",
+          "thumb": "sdasda/wallhaven-qrp57d_1920x1080_t.webp",
+          "full": "sdasda/wallhaven-qrp57d_1920x1080.webp"
+        }
+      ]
+    }
+  ]
 }
