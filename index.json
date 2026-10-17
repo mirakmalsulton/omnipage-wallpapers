@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T03:09:17Z",
+  "generatedAt": "2026-10-17T06:15:57Z",
   "baseUrl": "https://cdn.jsdelivr.net/gh/mirakmalsulton/omnipage-wallpapers@main/",
   "categories": [
     {
@@ -20,52 +20,10 @@
           "full": "abstract/item-02.webp"
         },
         {
-          "id": "item-03",
-          "name": "Item 03",
-          "thumb": "abstract/item-03_t.webp",
-          "full": "abstract/item-03.webp"
-        },
-        {
-          "id": "item-04",
-          "name": "Item 04",
-          "thumb": "abstract/item-04_t.webp",
-          "full": "abstract/item-04.webp"
-        },
-        {
-          "id": "item-05",
-          "name": "Item 05",
-          "thumb": "abstract/item-05_t.webp",
-          "full": "abstract/item-05.webp"
-        },
-        {
-          "id": "item-06",
-          "name": "Item 06",
-          "thumb": "abstract/item-06_t.webp",
-          "full": "abstract/item-06.webp"
-        },
-        {
-          "id": "item-07",
-          "name": "Item 07",
-          "thumb": "abstract/item-07_t.webp",
-          "full": "abstract/item-07.webp"
-        },
-        {
-          "id": "item-08",
-          "name": "Item 08",
-          "thumb": "abstract/item-08_t.webp",
-          "full": "abstract/item-08.webp"
-        },
-        {
-          "id": "item-09",
-          "name": "Item 09",
-          "thumb": "abstract/item-09_t.webp",
-          "full": "abstract/item-09.webp"
-        },
-        {
-          "id": "item-10",
-          "name": "Item 10",
-          "thumb": "abstract/item-10_t.webp",
-          "full": "abstract/item-10.webp"
+          "id": "wallhaven-xekm6l_1920x1080",
+          "name": "Wallhaven Xekm6L 1920X1080",
+          "thumb": "abstract/wallhaven-xekm6l_1920x1080_t.webp",
+          "full": "abstract/wallhaven-xekm6l_1920x1080.webp"
         }
       ]
     },
@@ -198,6 +156,18 @@
           "name": "Item 10",
           "thumb": "dark/item-10_t.webp",
           "full": "dark/item-10.webp"
+        }
+      ]
+    },
+    {
+      "id": "game",
+      "name": "Game",
+      "items": [
+        {
+          "id": "wallhaven-216qy6_1920x1080",
+          "name": "Wallhaven 216Qy6 1920X1080",
+          "thumb": "game/wallhaven-216qy6_1920x1080_t.webp",
+          "full": "game/wallhaven-216qy6_1920x1080.webp"
         }
       ]
     },
