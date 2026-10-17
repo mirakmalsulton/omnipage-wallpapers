@@ -1,47 +1,335 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T17:11:58Z",
+  "generatedAt": "2026-10-17T03:09:17Z",
   "baseUrl": "https://cdn.jsdelivr.net/gh/mirakmalsulton/omnipage-wallpapers@main/",
   "categories": [
     {
-      "id": "sdasda",
-      "name": "Sdasda",
+      "id": "abstract",
+      "name": "Abstract",
       "items": [
         {
-          "id": "wallhaven-493zvx_1920x1080",
-          "name": "Wallhaven 493Zvx 1920X1080",
-          "thumb": "sdasda/wallhaven-493zvx_1920x1080_t.webp",
-          "full": "sdasda/wallhaven-493zvx_1920x1080.webp"
+          "id": "item-01",
+          "name": "Item 01",
+          "thumb": "abstract/item-01_t.webp",
+          "full": "abstract/item-01.webp"
         },
         {
-          "id": "wallhaven-8g8111_1920x1080",
-          "name": "Wallhaven 8G8111 1920X1080",
-          "thumb": "sdasda/wallhaven-8g8111_1920x1080_t.webp",
-          "full": "sdasda/wallhaven-8g8111_1920x1080.webp"
+          "id": "item-02",
+          "name": "Item 02",
+          "thumb": "abstract/item-02_t.webp",
+          "full": "abstract/item-02.webp"
         },
         {
-          "id": "wallhaven-e8vvx8_1920x1080",
-          "name": "Wallhaven E8Vvx8 1920X1080",
-          "thumb": "sdasda/wallhaven-e8vvx8_1920x1080_t.webp",
-          "full": "sdasda/wallhaven-e8vvx8_1920x1080.webp"
+          "id": "item-03",
+          "name": "Item 03",
+          "thumb": "abstract/item-03_t.webp",
+          "full": "abstract/item-03.webp"
         },
         {
-          "id": "wallhaven-k72wqd_1920x1080",
-          "name": "Wallhaven K72Wqd 1920X1080",
-          "thumb": "sdasda/wallhaven-k72wqd_1920x1080_t.webp",
-          "full": "sdasda/wallhaven-k72wqd_1920x1080.webp"
+          "id": "item-04",
+          "name": "Item 04",
+          "thumb": "abstract/item-04_t.webp",
+          "full": "abstract/item-04.webp"
         },
         {
-          "id": "wallhaven-k8jlq7_1920x1080",
-          "name": "Wallhaven K8Jlq7 1920X1080",
-          "thumb": "sdasda/wallhaven-k8jlq7_1920x1080_t.webp",
-          "full": "sdasda/wallhaven-k8jlq7_1920x1080.webp"
+          "id": "item-05",
+          "name": "Item 05",
+          "thumb": "abstract/item-05_t.webp",
+          "full": "abstract/item-05.webp"
         },
         {
-          "id": "wallhaven-qrp57d_1920x1080",
-          "name": "Wallhaven Qrp57D 1920X1080",
-          "thumb": "sdasda/wallhaven-qrp57d_1920x1080_t.webp",
-          "full": "sdasda/wallhaven-qrp57d_1920x1080.webp"
+          "id": "item-06",
+          "name": "Item 06",
+          "thumb": "abstract/item-06_t.webp",
+          "full": "abstract/item-06.webp"
+        },
+        {
+          "id": "item-07",
+          "name": "Item 07",
+          "thumb": "abstract/item-07_t.webp",
+          "full": "abstract/item-07.webp"
+        },
+        {
+          "id": "item-08",
+          "name": "Item 08",
+          "thumb": "abstract/item-08_t.webp",
+          "full": "abstract/item-08.webp"
+        },
+        {
+          "id": "item-09",
+          "name": "Item 09",
+          "thumb": "abstract/item-09_t.webp",
+          "full": "abstract/item-09.webp"
+        },
+        {
+          "id": "item-10",
+          "name": "Item 10",
+          "thumb": "abstract/item-10_t.webp",
+          "full": "abstract/item-10.webp"
+        }
+      ]
+    },
+    {
+      "id": "colorful",
+      "name": "Colorful",
+      "items": [
+        {
+          "id": "item-01",
+          "name": "Item 01",
+          "thumb": "colorful/item-01_t.webp",
+          "full": "colorful/item-01.webp"
+        },
+        {
+          "id": "item-02",
+          "name": "Item 02",
+          "thumb": "colorful/item-02_t.webp",
+          "full": "colorful/item-02.webp"
+        },
+        {
+          "id": "item-03",
+          "name": "Item 03",
+          "thumb": "colorful/item-03_t.webp",
+          "full": "colorful/item-03.webp"
+        },
+        {
+          "id": "item-04",
+          "name": "Item 04",
+          "thumb": "colorful/item-04_t.webp",
+          "full": "colorful/item-04.webp"
+        },
+        {
+          "id": "item-05",
+          "name": "Item 05",
+          "thumb": "colorful/item-05_t.webp",
+          "full": "colorful/item-05.webp"
+        },
+        {
+          "id": "item-06",
+          "name": "Item 06",
+          "thumb": "colorful/item-06_t.webp",
+          "full": "colorful/item-06.webp"
+        },
+        {
+          "id": "item-07",
+          "name": "Item 07",
+          "thumb": "colorful/item-07_t.webp",
+          "full": "colorful/item-07.webp"
+        },
+        {
+          "id": "item-08",
+          "name": "Item 08",
+          "thumb": "colorful/item-08_t.webp",
+          "full": "colorful/item-08.webp"
+        },
+        {
+          "id": "item-09",
+          "name": "Item 09",
+          "thumb": "colorful/item-09_t.webp",
+          "full": "colorful/item-09.webp"
+        },
+        {
+          "id": "item-10",
+          "name": "Item 10",
+          "thumb": "colorful/item-10_t.webp",
+          "full": "colorful/item-10.webp"
+        }
+      ]
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "items": [
+        {
+          "id": "item-01",
+          "name": "Item 01",
+          "thumb": "dark/item-01_t.webp",
+          "full": "dark/item-01.webp"
+        },
+        {
+          "id": "item-02",
+          "name": "Item 02",
+          "thumb": "dark/item-02_t.webp",
+          "full": "dark/item-02.webp"
+        },
+        {
+          "id": "item-03",
+          "name": "Item 03",
+          "thumb": "dark/item-03_t.webp",
+          "full": "dark/item-03.webp"
+        },
+        {
+          "id": "item-04",
+          "name": "Item 04",
+          "thumb": "dark/item-04_t.webp",
+          "full": "dark/item-04.webp"
+        },
+        {
+          "id": "item-05",
+          "name": "Item 05",
+          "thumb": "dark/item-05_t.webp",
+          "full": "dark/item-05.webp"
+        },
+        {
+          "id": "item-06",
+          "name": "Item 06",
+          "thumb": "dark/item-06_t.webp",
+          "full": "dark/item-06.webp"
+        },
+        {
+          "id": "item-07",
+          "name": "Item 07",
+          "thumb": "dark/item-07_t.webp",
+          "full": "dark/item-07.webp"
+        },
+        {
+          "id": "item-08",
+          "name": "Item 08",
+          "thumb": "dark/item-08_t.webp",
+          "full": "dark/item-08.webp"
+        },
+        {
+          "id": "item-09",
+          "name": "Item 09",
+          "thumb": "dark/item-09_t.webp",
+          "full": "dark/item-09.webp"
+        },
+        {
+          "id": "item-10",
+          "name": "Item 10",
+          "thumb": "dark/item-10_t.webp",
+          "full": "dark/item-10.webp"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "items": [
+        {
+          "id": "item-01",
+          "name": "Item 01",
+          "thumb": "nature/item-01_t.webp",
+          "full": "nature/item-01.webp"
+        },
+        {
+          "id": "item-02",
+          "name": "Item 02",
+          "thumb": "nature/item-02_t.webp",
+          "full": "nature/item-02.webp"
+        },
+        {
+          "id": "item-03",
+          "name": "Item 03",
+          "thumb": "nature/item-03_t.webp",
+          "full": "nature/item-03.webp"
+        },
+        {
+          "id": "item-04",
+          "name": "Item 04",
+          "thumb": "nature/item-04_t.webp",
+          "full": "nature/item-04.webp"
+        },
+        {
+          "id": "item-05",
+          "name": "Item 05",
+          "thumb": "nature/item-05_t.webp",
+          "full": "nature/item-05.webp"
+        },
+        {
+          "id": "item-06",
+          "name": "Item 06",
+          "thumb": "nature/item-06_t.webp",
+          "full": "nature/item-06.webp"
+        },
+        {
+          "id": "item-07",
+          "name": "Item 07",
+          "thumb": "nature/item-07_t.webp",
+          "full": "nature/item-07.webp"
+        },
+        {
+          "id": "item-08",
+          "name": "Item 08",
+          "thumb": "nature/item-08_t.webp",
+          "full": "nature/item-08.webp"
+        },
+        {
+          "id": "item-09",
+          "name": "Item 09",
+          "thumb": "nature/item-09_t.webp",
+          "full": "nature/item-09.webp"
+        },
+        {
+          "id": "item-10",
+          "name": "Item 10",
+          "thumb": "nature/item-10_t.webp",
+          "full": "nature/item-10.webp"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "items": [
+        {
+          "id": "item-01",
+          "name": "Item 01",
+          "thumb": "space/item-01_t.webp",
+          "full": "space/item-01.webp"
+        },
+        {
+          "id": "item-02",
+          "name": "Item 02",
+          "thumb": "space/item-02_t.webp",
+          "full": "space/item-02.webp"
+        },
+        {
+          "id": "item-03",
+          "name": "Item 03",
+          "thumb": "space/item-03_t.webp",
+          "full": "space/item-03.webp"
+        },
+        {
+          "id": "item-04",
+          "name": "Item 04",
+          "thumb": "space/item-04_t.webp",
+          "full": "space/item-04.webp"
+        },
+        {
+          "id": "item-05",
+          "name": "Item 05",
+          "thumb": "space/item-05_t.webp",
+          "full": "space/item-05.webp"
+        },
+        {
+          "id": "item-06",
+          "name": "Item 06",
+          "thumb": "space/item-06_t.webp",
+          "full": "space/item-06.webp"
+        },
+        {
+          "id": "item-07",
+          "name": "Item 07",
+          "thumb": "space/item-07_t.webp",
+          "full": "space/item-07.webp"
+        },
+        {
+          "id": "item-08",
+          "name": "Item 08",
+          "thumb": "space/item-08_t.webp",
+          "full": "space/item-08.webp"
+        },
+        {
+          "id": "item-09",
+          "name": "Item 09",
+          "thumb": "space/item-09_t.webp",
+          "full": "space/item-09.webp"
+        },
+        {
+          "id": "item-10",
+          "name": "Item 10",
+          "thumb": "space/item-10_t.webp",
+          "full": "space/item-10.webp"
         }
       ]
     }
