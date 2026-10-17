@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T06:15:57Z",
+  "generatedAt": "2026-10-17T10:39:41Z",
   "baseUrl": "https://cdn.jsdelivr.net/gh/mirakmalsulton/omnipage-wallpapers@main/",
   "categories": [
     {
@@ -8,88 +8,628 @@
       "name": "Abstract",
       "items": [
         {
-          "id": "item-01",
-          "name": "Item 01",
-          "thumb": "abstract/item-01_t.webp",
-          "full": "abstract/item-01.webp"
+          "id": "wallhaven-01xkw1_1920x1080",
+          "name": "Wallhaven 01Xkw1 1920X1080",
+          "thumb": "abstract/wallhaven-01xkw1_1920x1080_t.webp",
+          "full": "abstract/wallhaven-01xkw1_1920x1080.webp"
         },
         {
-          "id": "item-02",
-          "name": "Item 02",
-          "thumb": "abstract/item-02_t.webp",
-          "full": "abstract/item-02.webp"
+          "id": "wallhaven-1kq351_1920x1080",
+          "name": "Wallhaven 1Kq351 1920X1080",
+          "thumb": "abstract/wallhaven-1kq351_1920x1080_t.webp",
+          "full": "abstract/wallhaven-1kq351_1920x1080.webp"
         },
         {
-          "id": "wallhaven-xekm6l_1920x1080",
-          "name": "Wallhaven Xekm6L 1920X1080",
-          "thumb": "abstract/wallhaven-xekm6l_1920x1080_t.webp",
-          "full": "abstract/wallhaven-xekm6l_1920x1080.webp"
+          "id": "wallhaven-2e8qqm_1920x1080",
+          "name": "Wallhaven 2E8Qqm 1920X1080",
+          "thumb": "abstract/wallhaven-2e8qqm_1920x1080_t.webp",
+          "full": "abstract/wallhaven-2e8qqm_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-2k63rx_1920x1080",
+          "name": "Wallhaven 2K63Rx 1920X1080",
+          "thumb": "abstract/wallhaven-2k63rx_1920x1080_t.webp",
+          "full": "abstract/wallhaven-2k63rx_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-3kdx23_1920x1080 (1)",
+          "name": "Wallhaven 3Kdx23 1920X1080 (1)",
+          "thumb": "abstract/wallhaven-3kdx23_1920x1080 (1)_t.webp",
+          "full": "abstract/wallhaven-3kdx23_1920x1080 (1).webp"
+        },
+        {
+          "id": "wallhaven-3kdx23_1920x1080 (2)",
+          "name": "Wallhaven 3Kdx23 1920X1080 (2)",
+          "thumb": "abstract/wallhaven-3kdx23_1920x1080 (2)_t.webp",
+          "full": "abstract/wallhaven-3kdx23_1920x1080 (2).webp"
+        },
+        {
+          "id": "wallhaven-3kdx23_1920x1080",
+          "name": "Wallhaven 3Kdx23 1920X1080",
+          "thumb": "abstract/wallhaven-3kdx23_1920x1080_t.webp",
+          "full": "abstract/wallhaven-3kdx23_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-3kokzd_1920x1080",
+          "name": "Wallhaven 3Kokzd 1920X1080",
+          "thumb": "abstract/wallhaven-3kokzd_1920x1080_t.webp",
+          "full": "abstract/wallhaven-3kokzd_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-423mvg_1920x1080",
+          "name": "Wallhaven 423Mvg 1920X1080",
+          "thumb": "abstract/wallhaven-423mvg_1920x1080_t.webp",
+          "full": "abstract/wallhaven-423mvg_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-42r9vg_1920x1080",
+          "name": "Wallhaven 42R9Vg 1920X1080",
+          "thumb": "abstract/wallhaven-42r9vg_1920x1080_t.webp",
+          "full": "abstract/wallhaven-42r9vg_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-452zk9_1920x1080",
+          "name": "Wallhaven 452Zk9 1920X1080",
+          "thumb": "abstract/wallhaven-452zk9_1920x1080_t.webp",
+          "full": "abstract/wallhaven-452zk9_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-47x3o3_1920x1080",
+          "name": "Wallhaven 47X3O3 1920X1080",
+          "thumb": "abstract/wallhaven-47x3o3_1920x1080_t.webp",
+          "full": "abstract/wallhaven-47x3o3_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-492ryd_1920x1080",
+          "name": "Wallhaven 492Ryd 1920X1080",
+          "thumb": "abstract/wallhaven-492ryd_1920x1080_t.webp",
+          "full": "abstract/wallhaven-492ryd_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-49lqow_1920x1080",
+          "name": "Wallhaven 49Lqow 1920X1080",
+          "thumb": "abstract/wallhaven-49lqow_1920x1080_t.webp",
+          "full": "abstract/wallhaven-49lqow_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4g2y23_1920x1080",
+          "name": "Wallhaven 4G2Y23 1920X1080",
+          "thumb": "abstract/wallhaven-4g2y23_1920x1080_t.webp",
+          "full": "abstract/wallhaven-4g2y23_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4vll35_1920x1080",
+          "name": "Wallhaven 4Vll35 1920X1080",
+          "thumb": "abstract/wallhaven-4vll35_1920x1080_t.webp",
+          "full": "abstract/wallhaven-4vll35_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4xwxpz_1920x1080",
+          "name": "Wallhaven 4Xwxpz 1920X1080",
+          "thumb": "abstract/wallhaven-4xwxpz_1920x1080_t.webp",
+          "full": "abstract/wallhaven-4xwxpz_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-5dg625_1920x1080",
+          "name": "Wallhaven 5Dg625 1920X1080",
+          "thumb": "abstract/wallhaven-5dg625_1920x1080_t.webp",
+          "full": "abstract/wallhaven-5dg625_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-5wkg88_1920x1080",
+          "name": "Wallhaven 5Wkg88 1920X1080",
+          "thumb": "abstract/wallhaven-5wkg88_1920x1080_t.webp",
+          "full": "abstract/wallhaven-5wkg88_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-5wp3v8_1920x1080",
+          "name": "Wallhaven 5Wp3V8 1920X1080",
+          "thumb": "abstract/wallhaven-5wp3v8_1920x1080_t.webp",
+          "full": "abstract/wallhaven-5wp3v8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-5wx1p7_1920x1080",
+          "name": "Wallhaven 5Wx1P7 1920X1080",
+          "thumb": "abstract/wallhaven-5wx1p7_1920x1080_t.webp",
+          "full": "abstract/wallhaven-5wx1p7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-6qewvq_1920x1080",
+          "name": "Wallhaven 6Qewvq 1920X1080",
+          "thumb": "abstract/wallhaven-6qewvq_1920x1080_t.webp",
+          "full": "abstract/wallhaven-6qewvq_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-6qy8v6_1920x1080",
+          "name": "Wallhaven 6Qy8V6 1920X1080",
+          "thumb": "abstract/wallhaven-6qy8v6_1920x1080_t.webp",
+          "full": "abstract/wallhaven-6qy8v6_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-72j76o_1920x1080",
+          "name": "Wallhaven 72J76O 1920X1080",
+          "thumb": "abstract/wallhaven-72j76o_1920x1080_t.webp",
+          "full": "abstract/wallhaven-72j76o_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-73xkle_1920x1080",
+          "name": "Wallhaven 73Xkle 1920X1080",
+          "thumb": "abstract/wallhaven-73xkle_1920x1080_t.webp",
+          "full": "abstract/wallhaven-73xkle_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-76xqmo_1920x1080",
+          "name": "Wallhaven 76Xqmo 1920X1080",
+          "thumb": "abstract/wallhaven-76xqmo_1920x1080_t.webp",
+          "full": "abstract/wallhaven-76xqmo_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-76y65v_1920x1080",
+          "name": "Wallhaven 76Y65V 1920X1080",
+          "thumb": "abstract/wallhaven-76y65v_1920x1080_t.webp",
+          "full": "abstract/wallhaven-76y65v_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-96zxzx_1920x1080",
+          "name": "Wallhaven 96Zxzx 1920X1080",
+          "thumb": "abstract/wallhaven-96zxzx_1920x1080_t.webp",
+          "full": "abstract/wallhaven-96zxzx_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-9dzdj8_1920x1080",
+          "name": "Wallhaven 9Dzdj8 1920X1080",
+          "thumb": "abstract/wallhaven-9dzdj8_1920x1080_t.webp",
+          "full": "abstract/wallhaven-9dzdj8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-9mx3z1_1920x1080",
+          "name": "Wallhaven 9Mx3Z1 1920X1080",
+          "thumb": "abstract/wallhaven-9mx3z1_1920x1080_t.webp",
+          "full": "abstract/wallhaven-9mx3z1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-gjz8gl_1920x1080",
+          "name": "Wallhaven Gjz8Gl 1920X1080",
+          "thumb": "abstract/wallhaven-gjz8gl_1920x1080_t.webp",
+          "full": "abstract/wallhaven-gjz8gl_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-j38o75_1920x1080",
+          "name": "Wallhaven J38O75 1920X1080",
+          "thumb": "abstract/wallhaven-j38o75_1920x1080_t.webp",
+          "full": "abstract/wallhaven-j38o75_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-j3j5ym_1920x1080",
+          "name": "Wallhaven J3J5Ym 1920X1080",
+          "thumb": "abstract/wallhaven-j3j5ym_1920x1080_t.webp",
+          "full": "abstract/wallhaven-j3j5ym_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-kx7pe1_1920x1080",
+          "name": "Wallhaven Kx7Pe1 1920X1080",
+          "thumb": "abstract/wallhaven-kx7pe1_1920x1080_t.webp",
+          "full": "abstract/wallhaven-kx7pe1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-lq5rwr_1920x1080",
+          "name": "Wallhaven Lq5Rwr 1920X1080",
+          "thumb": "abstract/wallhaven-lq5rwr_1920x1080_t.webp",
+          "full": "abstract/wallhaven-lq5rwr_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-m9y68k_1920x1080",
+          "name": "Wallhaven M9Y68K 1920X1080",
+          "thumb": "abstract/wallhaven-m9y68k_1920x1080_t.webp",
+          "full": "abstract/wallhaven-m9y68k_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-mdep98_1920x1080",
+          "name": "Wallhaven Mdep98 1920X1080",
+          "thumb": "abstract/wallhaven-mdep98_1920x1080_t.webp",
+          "full": "abstract/wallhaven-mdep98_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-mdomkk_1920x1080",
+          "name": "Wallhaven Mdomkk 1920X1080",
+          "thumb": "abstract/wallhaven-mdomkk_1920x1080_t.webp",
+          "full": "abstract/wallhaven-mdomkk_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-mp1oq8_1920x1080",
+          "name": "Wallhaven Mp1Oq8 1920X1080",
+          "thumb": "abstract/wallhaven-mp1oq8_1920x1080_t.webp",
+          "full": "abstract/wallhaven-mp1oq8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-n611w7_1920x1080",
+          "name": "Wallhaven N611W7 1920X1080",
+          "thumb": "abstract/wallhaven-n611w7_1920x1080_t.webp",
+          "full": "abstract/wallhaven-n611w7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-neolol_1920x1080",
+          "name": "Wallhaven Neolol 1920X1080",
+          "thumb": "abstract/wallhaven-neolol_1920x1080_t.webp",
+          "full": "abstract/wallhaven-neolol_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nk58dd_1920x1080",
+          "name": "Wallhaven Nk58Dd 1920X1080",
+          "thumb": "abstract/wallhaven-nk58dd_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nk58dd_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nk9lkd_1920x1080",
+          "name": "Wallhaven Nk9Lkd 1920X1080",
+          "thumb": "abstract/wallhaven-nk9lkd_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nk9lkd_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nm31k8_1920x1080",
+          "name": "Wallhaven Nm31K8 1920X1080",
+          "thumb": "abstract/wallhaven-nm31k8_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nm31k8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nml33y_1920x1080",
+          "name": "Wallhaven Nml33Y 1920X1080",
+          "thumb": "abstract/wallhaven-nml33y_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nml33y_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nmyeyy_1920x1080",
+          "name": "Wallhaven Nmyeyy 1920X1080",
+          "thumb": "abstract/wallhaven-nmyeyy_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nmyeyy_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nrr6y1_1920x1080",
+          "name": "Wallhaven Nrr6Y1 1920X1080",
+          "thumb": "abstract/wallhaven-nrr6y1_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nrr6y1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nz77v4_1920x1080",
+          "name": "Wallhaven Nz77V4 1920X1080",
+          "thumb": "abstract/wallhaven-nz77v4_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nz77v4_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nz9qry_1920x1080 (1)",
+          "name": "Wallhaven Nz9Qry 1920X1080 (1)",
+          "thumb": "abstract/wallhaven-nz9qry_1920x1080 (1)_t.webp",
+          "full": "abstract/wallhaven-nz9qry_1920x1080 (1).webp"
+        },
+        {
+          "id": "wallhaven-nz9qry_1920x1080",
+          "name": "Wallhaven Nz9Qry 1920X1080",
+          "thumb": "abstract/wallhaven-nz9qry_1920x1080_t.webp",
+          "full": "abstract/wallhaven-nz9qry_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-o3l8ml_1920x1080",
+          "name": "Wallhaven O3L8Ml 1920X1080",
+          "thumb": "abstract/wallhaven-o3l8ml_1920x1080_t.webp",
+          "full": "abstract/wallhaven-o3l8ml_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-o5dwzl_1920x1080",
+          "name": "Wallhaven O5Dwzl 1920X1080",
+          "thumb": "abstract/wallhaven-o5dwzl_1920x1080_t.webp",
+          "full": "abstract/wallhaven-o5dwzl_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-odlrgp_1920x1080",
+          "name": "Wallhaven Odlrgp 1920X1080",
+          "thumb": "abstract/wallhaven-odlrgp_1920x1080_t.webp",
+          "full": "abstract/wallhaven-odlrgp_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-p81ozj_1920x1080",
+          "name": "Wallhaven P81Ozj 1920X1080",
+          "thumb": "abstract/wallhaven-p81ozj_1920x1080_t.webp",
+          "full": "abstract/wallhaven-p81ozj_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-qz3yd7_1920x1080",
+          "name": "Wallhaven Qz3Yd7 1920X1080",
+          "thumb": "abstract/wallhaven-qz3yd7_1920x1080_t.webp",
+          "full": "abstract/wallhaven-qz3yd7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-qzev3q_1920x1080",
+          "name": "Wallhaven Qzev3Q 1920X1080",
+          "thumb": "abstract/wallhaven-qzev3q_1920x1080_t.webp",
+          "full": "abstract/wallhaven-qzev3q_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-rdwe9q_1920x1080 (1)",
+          "name": "Wallhaven Rdwe9Q 1920X1080 (1)",
+          "thumb": "abstract/wallhaven-rdwe9q_1920x1080 (1)_t.webp",
+          "full": "abstract/wallhaven-rdwe9q_1920x1080 (1).webp"
+        },
+        {
+          "id": "wallhaven-rdwe9q_1920x1080",
+          "name": "Wallhaven Rdwe9Q 1920X1080",
+          "thumb": "abstract/wallhaven-rdwe9q_1920x1080_t.webp",
+          "full": "abstract/wallhaven-rdwe9q_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-vgk5j8_1920x1080",
+          "name": "Wallhaven Vgk5J8 1920X1080",
+          "thumb": "abstract/wallhaven-vgk5j8_1920x1080_t.webp",
+          "full": "abstract/wallhaven-vgk5j8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-w8gemr_1920x1080",
+          "name": "Wallhaven W8Gemr 1920X1080",
+          "thumb": "abstract/wallhaven-w8gemr_1920x1080_t.webp",
+          "full": "abstract/wallhaven-w8gemr_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-x11yzv_1920x1080",
+          "name": "Wallhaven X11Yzv 1920X1080",
+          "thumb": "abstract/wallhaven-x11yzv_1920x1080_t.webp",
+          "full": "abstract/wallhaven-x11yzv_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-z8moew_1920x1080",
+          "name": "Wallhaven Z8Moew 1920X1080",
+          "thumb": "abstract/wallhaven-z8moew_1920x1080_t.webp",
+          "full": "abstract/wallhaven-z8moew_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-zmmjyg_1920x1080",
+          "name": "Wallhaven Zmmjyg 1920X1080",
+          "thumb": "abstract/wallhaven-zmmjyg_1920x1080_t.webp",
+          "full": "abstract/wallhaven-zmmjyg_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-zx967w_1920x1080",
+          "name": "Wallhaven Zx967W 1920X1080",
+          "thumb": "abstract/wallhaven-zx967w_1920x1080_t.webp",
+          "full": "abstract/wallhaven-zx967w_1920x1080.webp"
         }
       ]
     },
     {
-      "id": "colorful",
-      "name": "Colorful",
+      "id": "anime",
+      "name": "Anime",
       "items": [
         {
-          "id": "item-01",
-          "name": "Item 01",
-          "thumb": "colorful/item-01_t.webp",
-          "full": "colorful/item-01.webp"
+          "id": "wallhaven-0p5dyj_1920x1080",
+          "name": "Wallhaven 0P5Dyj 1920X1080",
+          "thumb": "anime/wallhaven-0p5dyj_1920x1080_t.webp",
+          "full": "anime/wallhaven-0p5dyj_1920x1080.webp"
         },
         {
-          "id": "item-02",
-          "name": "Item 02",
-          "thumb": "colorful/item-02_t.webp",
-          "full": "colorful/item-02.webp"
+          "id": "wallhaven-47mq63_1920x1080",
+          "name": "Wallhaven 47Mq63 1920X1080",
+          "thumb": "anime/wallhaven-47mq63_1920x1080_t.webp",
+          "full": "anime/wallhaven-47mq63_1920x1080.webp"
         },
         {
-          "id": "item-03",
-          "name": "Item 03",
-          "thumb": "colorful/item-03_t.webp",
-          "full": "colorful/item-03.webp"
+          "id": "wallhaven-4g31jd_1920x1080",
+          "name": "Wallhaven 4G31Jd 1920X1080",
+          "thumb": "anime/wallhaven-4g31jd_1920x1080_t.webp",
+          "full": "anime/wallhaven-4g31jd_1920x1080.webp"
         },
         {
-          "id": "item-04",
-          "name": "Item 04",
-          "thumb": "colorful/item-04_t.webp",
-          "full": "colorful/item-04.webp"
+          "id": "wallhaven-e7l1ow_1920x1080",
+          "name": "Wallhaven E7L1Ow 1920X1080",
+          "thumb": "anime/wallhaven-e7l1ow_1920x1080_t.webp",
+          "full": "anime/wallhaven-e7l1ow_1920x1080.webp"
         },
         {
-          "id": "item-05",
-          "name": "Item 05",
-          "thumb": "colorful/item-05_t.webp",
-          "full": "colorful/item-05.webp"
+          "id": "wallhaven-eo93yw_1920x1080",
+          "name": "Wallhaven Eo93Yw 1920X1080",
+          "thumb": "anime/wallhaven-eo93yw_1920x1080_t.webp",
+          "full": "anime/wallhaven-eo93yw_1920x1080.webp"
         },
         {
-          "id": "item-06",
-          "name": "Item 06",
-          "thumb": "colorful/item-06_t.webp",
-          "full": "colorful/item-06.webp"
+          "id": "wallhaven-g8l22l_1920x1080",
+          "name": "Wallhaven G8L22L 1920X1080",
+          "thumb": "anime/wallhaven-g8l22l_1920x1080_t.webp",
+          "full": "anime/wallhaven-g8l22l_1920x1080.webp"
         },
         {
-          "id": "item-07",
-          "name": "Item 07",
-          "thumb": "colorful/item-07_t.webp",
-          "full": "colorful/item-07.webp"
+          "id": "wallhaven-j8k195_1920x1080",
+          "name": "Wallhaven J8K195 1920X1080",
+          "thumb": "anime/wallhaven-j8k195_1920x1080_t.webp",
+          "full": "anime/wallhaven-j8k195_1920x1080.webp"
         },
         {
-          "id": "item-08",
-          "name": "Item 08",
-          "thumb": "colorful/item-08_t.webp",
-          "full": "colorful/item-08.webp"
+          "id": "wallhaven-m9lo8k_1920x1080",
+          "name": "Wallhaven M9Lo8K 1920X1080",
+          "thumb": "anime/wallhaven-m9lo8k_1920x1080_t.webp",
+          "full": "anime/wallhaven-m9lo8k_1920x1080.webp"
         },
         {
-          "id": "item-09",
-          "name": "Item 09",
-          "thumb": "colorful/item-09_t.webp",
-          "full": "colorful/item-09.webp"
+          "id": "wallhaven-nz9lww_1920x1080",
+          "name": "Wallhaven Nz9Lww 1920X1080",
+          "thumb": "anime/wallhaven-nz9lww_1920x1080_t.webp",
+          "full": "anime/wallhaven-nz9lww_1920x1080.webp"
         },
         {
-          "id": "item-10",
-          "name": "Item 10",
-          "thumb": "colorful/item-10_t.webp",
-          "full": "colorful/item-10.webp"
+          "id": "wallhaven-pk32pe_1920x1080",
+          "name": "Wallhaven Pk32Pe 1920X1080",
+          "thumb": "anime/wallhaven-pk32pe_1920x1080_t.webp",
+          "full": "anime/wallhaven-pk32pe_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-pkjlq9_1920x1080",
+          "name": "Wallhaven Pkjlq9 1920X1080",
+          "thumb": "anime/wallhaven-pkjlq9_1920x1080_t.webp",
+          "full": "anime/wallhaven-pkjlq9_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-r2dm7m_1920x1080",
+          "name": "Wallhaven R2Dm7M 1920X1080",
+          "thumb": "anime/wallhaven-r2dm7m_1920x1080_t.webp",
+          "full": "anime/wallhaven-r2dm7m_1920x1080.webp"
+        }
+      ]
+    },
+    {
+      "id": "cars",
+      "name": "Cars",
+      "items": [
+        {
+          "id": "wallhaven-0pqll9_1920x1080",
+          "name": "Wallhaven 0Pqll9 1920X1080",
+          "thumb": "cars/wallhaven-0pqll9_1920x1080_t.webp",
+          "full": "cars/wallhaven-0pqll9_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-0w9yvp_1920x1080",
+          "name": "Wallhaven 0W9Yvp 1920X1080",
+          "thumb": "cars/wallhaven-0w9yvp_1920x1080_t.webp",
+          "full": "cars/wallhaven-0w9yvp_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-49m8yx_1920x1080",
+          "name": "Wallhaven 49M8Yx 1920X1080",
+          "thumb": "cars/wallhaven-49m8yx_1920x1080_t.webp",
+          "full": "cars/wallhaven-49m8yx_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4dpvgo_1920x1080",
+          "name": "Wallhaven 4Dpvgo 1920X1080",
+          "thumb": "cars/wallhaven-4dpvgo_1920x1080_t.webp",
+          "full": "cars/wallhaven-4dpvgo_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4g23od_1920x1080",
+          "name": "Wallhaven 4G23Od 1920X1080",
+          "thumb": "cars/wallhaven-4g23od_1920x1080_t.webp",
+          "full": "cars/wallhaven-4g23od_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-72j639_1920x1080",
+          "name": "Wallhaven 72J639 1920X1080",
+          "thumb": "cars/wallhaven-72j639_1920x1080_t.webp",
+          "full": "cars/wallhaven-72j639_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-e7xm5w_1920x1080",
+          "name": "Wallhaven E7Xm5W 1920X1080",
+          "thumb": "cars/wallhaven-e7xm5w_1920x1080_t.webp",
+          "full": "cars/wallhaven-e7xm5w_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nk26xd_1920x1080",
+          "name": "Wallhaven Nk26Xd 1920X1080",
+          "thumb": "cars/wallhaven-nk26xd_1920x1080_t.webp",
+          "full": "cars/wallhaven-nk26xd_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nkjgm1_1920x1080",
+          "name": "Wallhaven Nkjgm1 1920X1080",
+          "thumb": "cars/wallhaven-nkjgm1_1920x1080_t.webp",
+          "full": "cars/wallhaven-nkjgm1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nm9lwy_1920x1080",
+          "name": "Wallhaven Nm9Lwy 1920X1080",
+          "thumb": "cars/wallhaven-nm9lwy_1920x1080_t.webp",
+          "full": "cars/wallhaven-nm9lwy_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nrdjo1_1920x1080",
+          "name": "Wallhaven Nrdjo1 1920X1080",
+          "thumb": "cars/wallhaven-nrdjo1_1920x1080_t.webp",
+          "full": "cars/wallhaven-nrdjo1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nz9vqj_1920x1080",
+          "name": "Wallhaven Nz9Vqj 1920X1080",
+          "thumb": "cars/wallhaven-nz9vqj_1920x1080_t.webp",
+          "full": "cars/wallhaven-nz9vqj_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-p8vvoj_1920x1080",
+          "name": "Wallhaven P8Vvoj 1920X1080",
+          "thumb": "cars/wallhaven-p8vvoj_1920x1080_t.webp",
+          "full": "cars/wallhaven-p8vvoj_1920x1080.webp"
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "name": "City",
+      "items": [
+        {
+          "id": "wallhaven-2kyvky_1920x1080",
+          "name": "Wallhaven 2Kyvky 1920X1080",
+          "thumb": "city/wallhaven-2kyvky_1920x1080_t.webp",
+          "full": "city/wallhaven-2kyvky_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-45vyg8_1920x1080",
+          "name": "Wallhaven 45Vyg8 1920X1080",
+          "thumb": "city/wallhaven-45vyg8_1920x1080_t.webp",
+          "full": "city/wallhaven-45vyg8_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4g2kje_1920x1080",
+          "name": "Wallhaven 4G2Kje 1920X1080",
+          "thumb": "city/wallhaven-4g2kje_1920x1080_t.webp",
+          "full": "city/wallhaven-4g2kje_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4v825n_1920x1080",
+          "name": "Wallhaven 4V825N 1920X1080",
+          "thumb": "city/wallhaven-4v825n_1920x1080_t.webp",
+          "full": "city/wallhaven-4v825n_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-6q7y1x_1920x1080",
+          "name": "Wallhaven 6Q7Y1X 1920X1080",
+          "thumb": "city/wallhaven-6q7y1x_1920x1080_t.webp",
+          "full": "city/wallhaven-6q7y1x_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-eyzqol_1920x1080",
+          "name": "Wallhaven Eyzqol 1920X1080",
+          "thumb": "city/wallhaven-eyzqol_1920x1080_t.webp",
+          "full": "city/wallhaven-eyzqol_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-g887w7_1920x1080",
+          "name": "Wallhaven G887W7 1920X1080",
+          "thumb": "city/wallhaven-g887w7_1920x1080_t.webp",
+          "full": "city/wallhaven-g887w7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-lq5dvl_1920x1080",
+          "name": "Wallhaven Lq5Dvl 1920X1080",
+          "thumb": "city/wallhaven-lq5dvl_1920x1080_t.webp",
+          "full": "city/wallhaven-lq5dvl_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-lqm6z2_1920x1080",
+          "name": "Wallhaven Lqm6Z2 1920X1080",
+          "thumb": "city/wallhaven-lqm6z2_1920x1080_t.webp",
+          "full": "city/wallhaven-lqm6z2_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nkkoj6_1920x1080",
+          "name": "Wallhaven Nkkoj6 1920X1080",
+          "thumb": "city/wallhaven-nkkoj6_1920x1080_t.webp",
+          "full": "city/wallhaven-nkkoj6_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nm3e9k_1920x1080",
+          "name": "Wallhaven Nm3E9K 1920X1080",
+          "thumb": "city/wallhaven-nm3e9k_1920x1080_t.webp",
+          "full": "city/wallhaven-nm3e9k_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nrr96w_1920x1080",
+          "name": "Wallhaven Nrr96W 1920X1080",
+          "thumb": "city/wallhaven-nrr96w_1920x1080_t.webp",
+          "full": "city/wallhaven-nrr96w_1920x1080.webp"
         }
       ]
     },
@@ -98,76 +638,160 @@
       "name": "Dark",
       "items": [
         {
-          "id": "item-01",
-          "name": "Item 01",
-          "thumb": "dark/item-01_t.webp",
-          "full": "dark/item-01.webp"
+          "id": "wallhaven-0wer6r_1920x1080",
+          "name": "Wallhaven 0Wer6R 1920X1080",
+          "thumb": "dark/wallhaven-0wer6r_1920x1080_t.webp",
+          "full": "dark/wallhaven-0wer6r_1920x1080.webp"
         },
         {
-          "id": "item-02",
-          "name": "Item 02",
-          "thumb": "dark/item-02_t.webp",
-          "full": "dark/item-02.webp"
+          "id": "wallhaven-g7z3p7_1920x1080",
+          "name": "Wallhaven G7Z3P7 1920X1080",
+          "thumb": "dark/wallhaven-g7z3p7_1920x1080_t.webp",
+          "full": "dark/wallhaven-g7z3p7_1920x1080.webp"
         },
         {
-          "id": "item-03",
-          "name": "Item 03",
-          "thumb": "dark/item-03_t.webp",
-          "full": "dark/item-03.webp"
+          "id": "wallhaven-gj9763_1920x1080",
+          "name": "Wallhaven Gj9763 1920X1080",
+          "thumb": "dark/wallhaven-gj9763_1920x1080_t.webp",
+          "full": "dark/wallhaven-gj9763_1920x1080.webp"
         },
         {
-          "id": "item-04",
-          "name": "Item 04",
-          "thumb": "dark/item-04_t.webp",
-          "full": "dark/item-04.webp"
+          "id": "wallhaven-k775l1_1920x1080",
+          "name": "Wallhaven K775L1 1920X1080",
+          "thumb": "dark/wallhaven-k775l1_1920x1080_t.webp",
+          "full": "dark/wallhaven-k775l1_1920x1080.webp"
         },
         {
-          "id": "item-05",
-          "name": "Item 05",
-          "thumb": "dark/item-05_t.webp",
-          "full": "dark/item-05.webp"
+          "id": "wallhaven-k9zkg7_1920x1080",
+          "name": "Wallhaven K9Zkg7 1920X1080",
+          "thumb": "dark/wallhaven-k9zkg7_1920x1080_t.webp",
+          "full": "dark/wallhaven-k9zkg7_1920x1080.webp"
         },
         {
-          "id": "item-06",
-          "name": "Item 06",
-          "thumb": "dark/item-06_t.webp",
-          "full": "dark/item-06.webp"
+          "id": "wallhaven-lmo97q_1920x1080",
+          "name": "Wallhaven Lmo97Q 1920X1080",
+          "thumb": "dark/wallhaven-lmo97q_1920x1080_t.webp",
+          "full": "dark/wallhaven-lmo97q_1920x1080.webp"
         },
         {
-          "id": "item-07",
-          "name": "Item 07",
-          "thumb": "dark/item-07_t.webp",
-          "full": "dark/item-07.webp"
+          "id": "wallhaven-lqvy7l_1920x1080",
+          "name": "Wallhaven Lqvy7L 1920X1080",
+          "thumb": "dark/wallhaven-lqvy7l_1920x1080_t.webp",
+          "full": "dark/wallhaven-lqvy7l_1920x1080.webp"
         },
         {
-          "id": "item-08",
-          "name": "Item 08",
-          "thumb": "dark/item-08_t.webp",
-          "full": "dark/item-08.webp"
+          "id": "wallhaven-mdpmr9_1920x1080",
+          "name": "Wallhaven Mdpmr9 1920X1080",
+          "thumb": "dark/wallhaven-mdpmr9_1920x1080_t.webp",
+          "full": "dark/wallhaven-mdpmr9_1920x1080.webp"
         },
         {
-          "id": "item-09",
-          "name": "Item 09",
-          "thumb": "dark/item-09_t.webp",
-          "full": "dark/item-09.webp"
+          "id": "wallhaven-od7d3m_1920x1080",
+          "name": "Wallhaven Od7D3M 1920X1080",
+          "thumb": "dark/wallhaven-od7d3m_1920x1080_t.webp",
+          "full": "dark/wallhaven-od7d3m_1920x1080.webp"
         },
         {
-          "id": "item-10",
-          "name": "Item 10",
-          "thumb": "dark/item-10_t.webp",
-          "full": "dark/item-10.webp"
+          "id": "wallhaven-odyej5_1920x1080",
+          "name": "Wallhaven Odyej5 1920X1080",
+          "thumb": "dark/wallhaven-odyej5_1920x1080_t.webp",
+          "full": "dark/wallhaven-odyej5_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-p21oo3_1920x1080",
+          "name": "Wallhaven P21Oo3 1920X1080",
+          "thumb": "dark/wallhaven-p21oo3_1920x1080_t.webp",
+          "full": "dark/wallhaven-p21oo3_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-qdex1r_1920x1080",
+          "name": "Wallhaven Qdex1R 1920X1080",
+          "thumb": "dark/wallhaven-qdex1r_1920x1080_t.webp",
+          "full": "dark/wallhaven-qdex1r_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-vg935l_1920x1080",
+          "name": "Wallhaven Vg935L 1920X1080",
+          "thumb": "dark/wallhaven-vg935l_1920x1080_t.webp",
+          "full": "dark/wallhaven-vg935l_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-wygkgx_1920x1080",
+          "name": "Wallhaven Wygkgx 1920X1080",
+          "thumb": "dark/wallhaven-wygkgx_1920x1080_t.webp",
+          "full": "dark/wallhaven-wygkgx_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-xlzg5v_1920x1080",
+          "name": "Wallhaven Xlzg5V 1920X1080",
+          "thumb": "dark/wallhaven-xlzg5v_1920x1080_t.webp",
+          "full": "dark/wallhaven-xlzg5v_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-z85q7y_1920x1080",
+          "name": "Wallhaven Z85Q7Y 1920X1080",
+          "thumb": "dark/wallhaven-z85q7y_1920x1080_t.webp",
+          "full": "dark/wallhaven-z85q7y_1920x1080.webp"
         }
       ]
     },
     {
-      "id": "game",
-      "name": "Game",
+      "id": "minimal",
+      "name": "Minimal",
       "items": [
         {
-          "id": "wallhaven-216qy6_1920x1080",
-          "name": "Wallhaven 216Qy6 1920X1080",
-          "thumb": "game/wallhaven-216qy6_1920x1080_t.webp",
-          "full": "game/wallhaven-216qy6_1920x1080.webp"
+          "id": "wallhaven-0jx8yq_1920x1080",
+          "name": "Wallhaven 0Jx8Yq 1920X1080",
+          "thumb": "minimal/wallhaven-0jx8yq_1920x1080_t.webp",
+          "full": "minimal/wallhaven-0jx8yq_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-456r21_1920x1080",
+          "name": "Wallhaven 456R21 1920X1080",
+          "thumb": "minimal/wallhaven-456r21_1920x1080_t.webp",
+          "full": "minimal/wallhaven-456r21_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4xvx9o_1920x1080",
+          "name": "Wallhaven 4Xvx9O 1920X1080",
+          "thumb": "minimal/wallhaven-4xvx9o_1920x1080_t.webp",
+          "full": "minimal/wallhaven-4xvx9o_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-73r9wo_1920x1080",
+          "name": "Wallhaven 73R9Wo 1920X1080",
+          "thumb": "minimal/wallhaven-73r9wo_1920x1080_t.webp",
+          "full": "minimal/wallhaven-73r9wo_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-8xm75o_1920x1080",
+          "name": "Wallhaven 8Xm75O 1920X1080",
+          "thumb": "minimal/wallhaven-8xm75o_1920x1080_t.webp",
+          "full": "minimal/wallhaven-8xm75o_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-mpmk99_1920x1080",
+          "name": "Wallhaven Mpmk99 1920X1080",
+          "thumb": "minimal/wallhaven-mpmk99_1920x1080_t.webp",
+          "full": "minimal/wallhaven-mpmk99_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nkko5q_1920x1080",
+          "name": "Wallhaven Nkko5Q 1920X1080",
+          "thumb": "minimal/wallhaven-nkko5q_1920x1080_t.webp",
+          "full": "minimal/wallhaven-nkko5q_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-vgp76l_1920x1080",
+          "name": "Wallhaven Vgp76L 1920X1080",
+          "thumb": "minimal/wallhaven-vgp76l_1920x1080_t.webp",
+          "full": "minimal/wallhaven-vgp76l_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-vqpmwl_1920x1080",
+          "name": "Wallhaven Vqpmwl 1920X1080",
+          "thumb": "minimal/wallhaven-vqpmwl_1920x1080_t.webp",
+          "full": "minimal/wallhaven-vqpmwl_1920x1080.webp"
         }
       ]
     },
@@ -176,64 +800,238 @@
       "name": "Nature",
       "items": [
         {
-          "id": "item-01",
-          "name": "Item 01",
-          "thumb": "nature/item-01_t.webp",
-          "full": "nature/item-01.webp"
+          "id": "wallhaven-0jqkjm_1920x1080",
+          "name": "Wallhaven 0Jqkjm 1920X1080",
+          "thumb": "nature/wallhaven-0jqkjm_1920x1080_t.webp",
+          "full": "nature/wallhaven-0jqkjm_1920x1080.webp"
         },
         {
-          "id": "item-02",
-          "name": "Item 02",
-          "thumb": "nature/item-02_t.webp",
-          "full": "nature/item-02.webp"
+          "id": "wallhaven-421x7y_1920x1080",
+          "name": "Wallhaven 421X7Y 1920X1080",
+          "thumb": "nature/wallhaven-421x7y_1920x1080_t.webp",
+          "full": "nature/wallhaven-421x7y_1920x1080.webp"
         },
         {
-          "id": "item-03",
-          "name": "Item 03",
-          "thumb": "nature/item-03_t.webp",
-          "full": "nature/item-03.webp"
+          "id": "wallhaven-429q16_1920x1080",
+          "name": "Wallhaven 429Q16 1920X1080",
+          "thumb": "nature/wallhaven-429q16_1920x1080_t.webp",
+          "full": "nature/wallhaven-429q16_1920x1080.webp"
         },
         {
-          "id": "item-04",
-          "name": "Item 04",
-          "thumb": "nature/item-04_t.webp",
-          "full": "nature/item-04.webp"
+          "id": "wallhaven-42xp3m_1920x1080",
+          "name": "Wallhaven 42Xp3M 1920X1080",
+          "thumb": "nature/wallhaven-42xp3m_1920x1080_t.webp",
+          "full": "nature/wallhaven-42xp3m_1920x1080.webp"
         },
         {
-          "id": "item-05",
-          "name": "Item 05",
-          "thumb": "nature/item-05_t.webp",
-          "full": "nature/item-05.webp"
+          "id": "wallhaven-45jre1_1920x1080",
+          "name": "Wallhaven 45Jre1 1920X1080",
+          "thumb": "nature/wallhaven-45jre1_1920x1080_t.webp",
+          "full": "nature/wallhaven-45jre1_1920x1080.webp"
         },
         {
-          "id": "item-06",
-          "name": "Item 06",
-          "thumb": "nature/item-06_t.webp",
-          "full": "nature/item-06.webp"
+          "id": "wallhaven-45o7j1_1920x1080",
+          "name": "Wallhaven 45O7J1 1920X1080",
+          "thumb": "nature/wallhaven-45o7j1_1920x1080_t.webp",
+          "full": "nature/wallhaven-45o7j1_1920x1080.webp"
         },
         {
-          "id": "item-07",
-          "name": "Item 07",
-          "thumb": "nature/item-07_t.webp",
-          "full": "nature/item-07.webp"
+          "id": "wallhaven-4752l9_1920x1080",
+          "name": "Wallhaven 4752L9 1920X1080",
+          "thumb": "nature/wallhaven-4752l9_1920x1080_t.webp",
+          "full": "nature/wallhaven-4752l9_1920x1080.webp"
         },
         {
-          "id": "item-08",
-          "name": "Item 08",
-          "thumb": "nature/item-08_t.webp",
-          "full": "nature/item-08.webp"
+          "id": "wallhaven-47dgp9_1920x1080",
+          "name": "Wallhaven 47Dgp9 1920X1080",
+          "thumb": "nature/wallhaven-47dgp9_1920x1080_t.webp",
+          "full": "nature/wallhaven-47dgp9_1920x1080.webp"
         },
         {
-          "id": "item-09",
-          "name": "Item 09",
-          "thumb": "nature/item-09_t.webp",
-          "full": "nature/item-09.webp"
+          "id": "wallhaven-47m7xo_1920x1080",
+          "name": "Wallhaven 47M7Xo 1920X1080",
+          "thumb": "nature/wallhaven-47m7xo_1920x1080_t.webp",
+          "full": "nature/wallhaven-47m7xo_1920x1080.webp"
         },
         {
-          "id": "item-10",
-          "name": "Item 10",
-          "thumb": "nature/item-10_t.webp",
-          "full": "nature/item-10.webp"
+          "id": "wallhaven-497dl1_1920x1080",
+          "name": "Wallhaven 497Dl1 1920X1080",
+          "thumb": "nature/wallhaven-497dl1_1920x1080_t.webp",
+          "full": "nature/wallhaven-497dl1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-49dwrk_1920x1080",
+          "name": "Wallhaven 49Dwrk 1920X1080",
+          "thumb": "nature/wallhaven-49dwrk_1920x1080_t.webp",
+          "full": "nature/wallhaven-49dwrk_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4dwk1m_1920x1080",
+          "name": "Wallhaven 4Dwk1M 1920X1080",
+          "thumb": "nature/wallhaven-4dwk1m_1920x1080_t.webp",
+          "full": "nature/wallhaven-4dwk1m_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4odlrm_1920x1080",
+          "name": "Wallhaven 4Odlrm 1920X1080",
+          "thumb": "nature/wallhaven-4odlrm_1920x1080_t.webp",
+          "full": "nature/wallhaven-4odlrm_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4vmyjp_1920x1080",
+          "name": "Wallhaven 4Vmyjp 1920X1080",
+          "thumb": "nature/wallhaven-4vmyjp_1920x1080_t.webp",
+          "full": "nature/wallhaven-4vmyjp_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-4ym8q7_1920x1080",
+          "name": "Wallhaven 4Ym8Q7 1920X1080",
+          "thumb": "nature/wallhaven-4ym8q7_1920x1080_t.webp",
+          "full": "nature/wallhaven-4ym8q7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-838zm1_1920x1080",
+          "name": "Wallhaven 838Zm1 1920X1080",
+          "thumb": "nature/wallhaven-838zm1_1920x1080_t.webp",
+          "full": "nature/wallhaven-838zm1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-96vdyw_1920x1080",
+          "name": "Wallhaven 96Vdyw 1920X1080",
+          "thumb": "nature/wallhaven-96vdyw_1920x1080_t.webp",
+          "full": "nature/wallhaven-96vdyw_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-d5gl1j_1920x1080",
+          "name": "Wallhaven D5Gl1J 1920X1080",
+          "thumb": "nature/wallhaven-d5gl1j_1920x1080_t.webp",
+          "full": "nature/wallhaven-d5gl1j_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-d6y2dg_1920x1080",
+          "name": "Wallhaven D6Y2Dg 1920X1080",
+          "thumb": "nature/wallhaven-d6y2dg_1920x1080_t.webp",
+          "full": "nature/wallhaven-d6y2dg_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-eo7wpr_1920x1080",
+          "name": "Wallhaven Eo7Wpr 1920X1080",
+          "thumb": "nature/wallhaven-eo7wpr_1920x1080_t.webp",
+          "full": "nature/wallhaven-eo7wpr_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-eoo19o_1920x1080",
+          "name": "Wallhaven Eoo19O 1920X1080",
+          "thumb": "nature/wallhaven-eoo19o_1920x1080_t.webp",
+          "full": "nature/wallhaven-eoo19o_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-k936q6_1920x1080",
+          "name": "Wallhaven K936Q6 1920X1080",
+          "thumb": "nature/wallhaven-k936q6_1920x1080_t.webp",
+          "full": "nature/wallhaven-k936q6_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-kxxzp7_1920x1080",
+          "name": "Wallhaven Kxxzp7 1920X1080",
+          "thumb": "nature/wallhaven-kxxzp7_1920x1080_t.webp",
+          "full": "nature/wallhaven-kxxzp7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-l33x82_1920x1080",
+          "name": "Wallhaven L33X82 1920X1080",
+          "thumb": "nature/wallhaven-l33x82_1920x1080_t.webp",
+          "full": "nature/wallhaven-l33x82_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-ne2l1l_1920x1080",
+          "name": "Wallhaven Ne2L1L 1920X1080",
+          "thumb": "nature/wallhaven-ne2l1l_1920x1080_t.webp",
+          "full": "nature/wallhaven-ne2l1l_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nm6owk_1920x1080",
+          "name": "Wallhaven Nm6Owk 1920X1080",
+          "thumb": "nature/wallhaven-nm6owk_1920x1080_t.webp",
+          "full": "nature/wallhaven-nm6owk_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nmm2zk_1920x1080",
+          "name": "Wallhaven Nmm2Zk 1920X1080",
+          "thumb": "nature/wallhaven-nmm2zk_1920x1080_t.webp",
+          "full": "nature/wallhaven-nmm2zk_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nrqvjq_1920x1080",
+          "name": "Wallhaven Nrqvjq 1920X1080",
+          "thumb": "nature/wallhaven-nrqvjq_1920x1080_t.webp",
+          "full": "nature/wallhaven-nrqvjq_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nzl97j_1920x1080",
+          "name": "Wallhaven Nzl97J 1920X1080",
+          "thumb": "nature/wallhaven-nzl97j_1920x1080_t.webp",
+          "full": "nature/wallhaven-nzl97j_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-od1we7_1920x1080",
+          "name": "Wallhaven Od1We7 1920X1080",
+          "thumb": "nature/wallhaven-od1we7_1920x1080_t.webp",
+          "full": "nature/wallhaven-od1we7_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-oxo6pl_1920x1080",
+          "name": "Wallhaven Oxo6Pl 1920X1080",
+          "thumb": "nature/wallhaven-oxo6pl_1920x1080_t.webp",
+          "full": "nature/wallhaven-oxo6pl_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-oxvzl9_1920x1080",
+          "name": "Wallhaven Oxvzl9 1920X1080",
+          "thumb": "nature/wallhaven-oxvzl9_1920x1080_t.webp",
+          "full": "nature/wallhaven-oxvzl9_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-pk3xqm_1920x1080",
+          "name": "Wallhaven Pk3Xqm 1920X1080",
+          "thumb": "nature/wallhaven-pk3xqm_1920x1080_t.webp",
+          "full": "nature/wallhaven-pk3xqm_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-qz2e8l_1920x1080",
+          "name": "Wallhaven Qz2E8L 1920X1080",
+          "thumb": "nature/wallhaven-qz2e8l_1920x1080_t.webp",
+          "full": "nature/wallhaven-qz2e8l_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-r28orq_1920x1080",
+          "name": "Wallhaven R28Orq 1920X1080",
+          "thumb": "nature/wallhaven-r28orq_1920x1080_t.webp",
+          "full": "nature/wallhaven-r28orq_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-vpdmll_1920x1080",
+          "name": "Wallhaven Vpdmll 1920X1080",
+          "thumb": "nature/wallhaven-vpdmll_1920x1080_t.webp",
+          "full": "nature/wallhaven-vpdmll_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-xezlwv_1920x1080",
+          "name": "Wallhaven Xezlwv 1920X1080",
+          "thumb": "nature/wallhaven-xezlwv_1920x1080_t.webp",
+          "full": "nature/wallhaven-xezlwv_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-z82lqy_1920x1080",
+          "name": "Wallhaven Z82Lqy 1920X1080",
+          "thumb": "nature/wallhaven-z82lqy_1920x1080_t.webp",
+          "full": "nature/wallhaven-z82lqy_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-zxgxjg_1920x1080",
+          "name": "Wallhaven Zxgxjg 1920X1080",
+          "thumb": "nature/wallhaven-zxgxjg_1920x1080_t.webp",
+          "full": "nature/wallhaven-zxgxjg_1920x1080.webp"
         }
       ]
     },
@@ -242,64 +1040,88 @@
       "name": "Space",
       "items": [
         {
-          "id": "item-01",
-          "name": "Item 01",
-          "thumb": "space/item-01_t.webp",
-          "full": "space/item-01.webp"
+          "id": "wallhaven-39eeqd_1920x1080",
+          "name": "Wallhaven 39Eeqd 1920X1080",
+          "thumb": "space/wallhaven-39eeqd_1920x1080_t.webp",
+          "full": "space/wallhaven-39eeqd_1920x1080.webp"
         },
         {
-          "id": "item-02",
-          "name": "Item 02",
-          "thumb": "space/item-02_t.webp",
-          "full": "space/item-02.webp"
+          "id": "wallhaven-4278g0_1920x1080",
+          "name": "Wallhaven 4278G0 1920X1080",
+          "thumb": "space/wallhaven-4278g0_1920x1080_t.webp",
+          "full": "space/wallhaven-4278g0_1920x1080.webp"
         },
         {
-          "id": "item-03",
-          "name": "Item 03",
-          "thumb": "space/item-03_t.webp",
-          "full": "space/item-03.webp"
+          "id": "wallhaven-4789ke_1920x1080",
+          "name": "Wallhaven 4789Ke 1920X1080",
+          "thumb": "space/wallhaven-4789ke_1920x1080_t.webp",
+          "full": "space/wallhaven-4789ke_1920x1080.webp"
         },
         {
-          "id": "item-04",
-          "name": "Item 04",
-          "thumb": "space/item-04_t.webp",
-          "full": "space/item-04.webp"
+          "id": "wallhaven-47dpr9_1920x1080",
+          "name": "Wallhaven 47Dpr9 1920X1080",
+          "thumb": "space/wallhaven-47dpr9_1920x1080_t.webp",
+          "full": "space/wallhaven-47dpr9_1920x1080.webp"
         },
         {
-          "id": "item-05",
-          "name": "Item 05",
-          "thumb": "space/item-05_t.webp",
-          "full": "space/item-05.webp"
+          "id": "wallhaven-4ld332_1920x1080",
+          "name": "Wallhaven 4Ld332 1920X1080",
+          "thumb": "space/wallhaven-4ld332_1920x1080_t.webp",
+          "full": "space/wallhaven-4ld332_1920x1080.webp"
         },
         {
-          "id": "item-06",
-          "name": "Item 06",
-          "thumb": "space/item-06_t.webp",
-          "full": "space/item-06.webp"
+          "id": "wallhaven-4vo8km_1920x1080",
+          "name": "Wallhaven 4Vo8Km 1920X1080",
+          "thumb": "space/wallhaven-4vo8km_1920x1080_t.webp",
+          "full": "space/wallhaven-4vo8km_1920x1080.webp"
         },
         {
-          "id": "item-07",
-          "name": "Item 07",
-          "thumb": "space/item-07_t.webp",
-          "full": "space/item-07.webp"
+          "id": "wallhaven-76g2zy_1920x1080",
+          "name": "Wallhaven 76G2Zy 1920X1080",
+          "thumb": "space/wallhaven-76g2zy_1920x1080_t.webp",
+          "full": "space/wallhaven-76g2zy_1920x1080.webp"
         },
         {
-          "id": "item-08",
-          "name": "Item 08",
-          "thumb": "space/item-08_t.webp",
-          "full": "space/item-08.webp"
+          "id": "wallhaven-9m57xx_1920x1080",
+          "name": "Wallhaven 9M57Xx 1920X1080",
+          "thumb": "space/wallhaven-9m57xx_1920x1080_t.webp",
+          "full": "space/wallhaven-9m57xx_1920x1080.webp"
         },
         {
-          "id": "item-09",
-          "name": "Item 09",
-          "thumb": "space/item-09_t.webp",
-          "full": "space/item-09.webp"
+          "id": "wallhaven-d5p523_1920x1080",
+          "name": "Wallhaven D5P523 1920X1080",
+          "thumb": "space/wallhaven-d5p523_1920x1080_t.webp",
+          "full": "space/wallhaven-d5p523_1920x1080.webp"
         },
         {
-          "id": "item-10",
-          "name": "Item 10",
-          "thumb": "space/item-10_t.webp",
-          "full": "space/item-10.webp"
+          "id": "wallhaven-mpvyq1_1920x1080",
+          "name": "Wallhaven Mpvyq1 1920X1080",
+          "thumb": "space/wallhaven-mpvyq1_1920x1080_t.webp",
+          "full": "space/wallhaven-mpvyq1_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-n63yrl_1920x1080",
+          "name": "Wallhaven N63Yrl 1920X1080",
+          "thumb": "space/wallhaven-n63yrl_1920x1080_t.webp",
+          "full": "space/wallhaven-n63yrl_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-n6eg2w_1920x1080",
+          "name": "Wallhaven N6Eg2W 1920X1080",
+          "thumb": "space/wallhaven-n6eg2w_1920x1080_t.webp",
+          "full": "space/wallhaven-n6eg2w_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-nkdkp6_1920x1080",
+          "name": "Wallhaven Nkdkp6 1920X1080",
+          "thumb": "space/wallhaven-nkdkp6_1920x1080_t.webp",
+          "full": "space/wallhaven-nkdkp6_1920x1080.webp"
+        },
+        {
+          "id": "wallhaven-yjw77k_1920x1080",
+          "name": "Wallhaven Yjw77K 1920X1080",
+          "thumb": "space/wallhaven-yjw77k_1920x1080_t.webp",
+          "full": "space/wallhaven-yjw77k_1920x1080.webp"
         }
       ]
     }

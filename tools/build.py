@@ -38,8 +38,8 @@ CDN_BASE_URL  = f"https://cdn.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@{GITHU
 # Параметры сжатия
 FULL_SIZE     = (1920, 1080)   # fit — обрезка под пропорцию
 FULL_QUALITY  = 75
-THUMB_SIZE    = (400, 250)     # 16:10, похож на UI-карточку
-THUMB_QUALITY = 55
+THUMB_SIZE    = (240, 150)     # ровно под Retina (карточка 81×81 CSS × 2 DPR)
+THUMB_QUALITY = 40
 
 # Пути относительно корня omnipage-wallpapers репо (где и лежит этот скрипт).
 ROOT          = Path(__file__).resolve().parent.parent
